@@ -1,0 +1,12 @@
+{
+  "domain": "is-a.dev",
+  "subdomain": "_vercel.vota",
+  "owner": {
+    "username": "xxz13352",
+    "email": "1423760291@qq.com"
+  },
+  "records": {
+    "TXT": ["vc-domain-verify=vota.is-a.dev,9844863d52977fd4cc13"]
+  },
+  "proxied": false
+}
